@@ -354,6 +354,8 @@ areas:
   reviewers:
   - name: Konstantin Lapkov
     github: klapkov
+  - name: Alexander Nicke
+    github: a18e
   repositories:
   - cloudfoundry/cf-lookup-route
   - cloudfoundry/cf-networking-helpers
@@ -387,6 +389,9 @@ areas:
     github: plowin
   - name: Tamara Boehm
     github: b1tamara
+  reviewers:
+  - name: Alexander Nicke
+    github: a18e
   repositories:
   - cloudfoundry/haproxy-boshrelease
   - cloudfoundry/pcap
